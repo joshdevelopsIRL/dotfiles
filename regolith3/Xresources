@@ -1,0 +1,6 @@
+wm.bar.position: top
+regolith.wallpaper.file: /home/jd/Pictures/wallpapers/nord-gb.png
+
+wm.gaps.inner.size: 11
+wm.window.border.size: 4
+wm.client.focused.color.child_border: #abcdef
